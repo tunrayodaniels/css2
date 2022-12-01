@@ -1,0 +1,30 @@
+.likes{
+    color: rgb(255, 0, 0);
+}
+#likesbaby{
+    color: rgb(0, 164, 164);
+}
+
+.dislike{
+      color: rgb(255, 255, 255);
+}
+/* .dislikes #dislikebaby{
+   color: rgb(255, 255, 255);
+}
+.dislike{
+    color: rgb(255, 140, 0);
+} */
+.yes{
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: black;
+    padding: 20px;
+    width: 300px;
+}
+.no{
+    border: 3px dashed orange;
+    border-radius: 20px;
+    background-color: brown;
+    padding: 20px;
+    width: 300px;
+}
